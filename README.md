@@ -1,10 +1,12 @@
-<center><img src="hello.svg"></center>
+<div style=" display: flex; align-items:center ;justify-content:center"><img src="hello.svg"></div>
 
 <h1 align="center">I'm Nabin Paudyal</h1>
 <h3 align="center">A learner from Nepal</h3>
-<center>
-<img width="600px"src="profile-3d-contrib\profile-night-green.svg">
-</center>
+<div style=" display: flex; align-items:center ;justify-content:center">
+<div style="width: 600px; height: 400px; position: relative; background-image: url('profile-3d-contrib/profile-night-green.svg'); background-size: cover; background-position: center;">
+    <img style="width: 43%; height: 45%; position: absolute; bottom: 0; left: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabin25&locale=en&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,scss">
+  </div>
+</div>
 <br/><br/>
 <p align="center">
 <img align="right" width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin25&theme=shades-of-purple" alt="nabin25" />
