@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabin25&locale=en&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,scss">
-
+<br/>
 <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=nabin25&theme=shades-of-purple" alt="nabin25" />
 
 &nbsp;
