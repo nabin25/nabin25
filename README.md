@@ -5,7 +5,7 @@
 <h1 align="center">I'm Nabin Paudyal</h1>
 <h3 align="center">A learner from Nepal</h3>
 <p align="center">
-    <img width="600px" src="profile-3d-contrib/profile-night-green.svg">
+    <img width="600px" src="profile-3d-contrib/profile-gitblock.svg">
 </p>
 
 <p align="center">
