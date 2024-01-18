@@ -15,7 +15,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          IGNORE_LANGUAGES : 'Jupyter Notebook'
+          MAX_LANGUAGES: 6
+          IGNORE_LANGUAGES: "Jupyter Notebook"
       - name: Commit & Push
         run: |
           git config user.name github-actions
