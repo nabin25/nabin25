@@ -15,7 +15,7 @@
 
 &nbsp;
 
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=nabin25&show_icons=true&locale=en&theme=shades-of-purple" alt="nabin25" />
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=nabin25&show_icons=true&locale=en&theme=shades-of-purple&hide_border=true&border_radius=20" alt="nabin25" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
