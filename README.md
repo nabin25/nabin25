@@ -2,8 +2,7 @@
   <img src="hello.svg" alt="Hello SVG">
 </p>
 
-<h1 align="center">I'm Nabin Paudyal</h1>
-<h3 align="center">A learner from Nepal</h3>
+<img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20Nabin%20Paudyal;A%20Programmer%20from%20Nepal;%20Working%20on%20upgrading%20skills;Learning%20is%20a%20lifetime%20process&font=Fira%20Code&center=true&width=460&height=45&color=f75c7e&vCenter=true&pause=1000&size=25" />
 <p align="center">
     <img width="600px" src="profile-3d-contrib/profile-night-green.svg">
 </p>
